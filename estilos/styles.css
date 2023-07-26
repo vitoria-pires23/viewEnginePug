@@ -1,0 +1,33 @@
+/* styles.css */
+
+/* Defina cores pastéis personalizadas */
+.pastel-primary {
+    background-color: #cfe0f0;
+    color: #19407c;
+  }
+  
+  .pastel-secondary {
+    background-color: #f0dfd0;
+    color: #7c4a19;
+  }
+  
+  .pastel-success {
+    background-color: #d0f0cf;
+    color: #197c3f;
+  }
+  
+  .pastel-info {
+    background-color: #d0eaf0;
+    color: #1b4a7c;
+  }
+  
+  .pastel-warning {
+    background-color: #f0e1d0;
+    color: #7c4919;
+  }
+  
+  .pastel-danger {
+    background-color: #f0d0d3;
+    color: #7c1919;
+  }
+  
